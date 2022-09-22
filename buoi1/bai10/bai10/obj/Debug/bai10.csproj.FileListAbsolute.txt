@@ -1,0 +1,8 @@
+C:\Users\hoang\C#\buoi1\bai10\bai10\bin\Debug\bai10.exe.config
+C:\Users\hoang\C#\buoi1\bai10\bai10\bin\Debug\bai10.exe
+C:\Users\hoang\C#\buoi1\bai10\bai10\bin\Debug\bai10.pdb
+C:\Users\hoang\C#\buoi1\bai10\bai10\obj\Debug\bai10.csproj.AssemblyReference.cache
+C:\Users\hoang\C#\buoi1\bai10\bai10\obj\Debug\bai10.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoang\C#\buoi1\bai10\bai10\obj\Debug\bai10.csproj.CoreCompileInputs.cache
+C:\Users\hoang\C#\buoi1\bai10\bai10\obj\Debug\bai10.exe
+C:\Users\hoang\C#\buoi1\bai10\bai10\obj\Debug\bai10.pdb

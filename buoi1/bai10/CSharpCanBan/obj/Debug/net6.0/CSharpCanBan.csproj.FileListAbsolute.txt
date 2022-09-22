@@ -1,0 +1,15 @@
+C:\Users\hoang\C#\buoi1\bai10\CSharpCanBan\bin\Debug\net6.0\CSharpCanBan.exe
+C:\Users\hoang\C#\buoi1\bai10\CSharpCanBan\bin\Debug\net6.0\CSharpCanBan.deps.json
+C:\Users\hoang\C#\buoi1\bai10\CSharpCanBan\bin\Debug\net6.0\CSharpCanBan.runtimeconfig.json
+C:\Users\hoang\C#\buoi1\bai10\CSharpCanBan\bin\Debug\net6.0\CSharpCanBan.dll
+C:\Users\hoang\C#\buoi1\bai10\CSharpCanBan\bin\Debug\net6.0\CSharpCanBan.pdb
+C:\Users\hoang\C#\buoi1\bai10\CSharpCanBan\obj\Debug\net6.0\CSharpCanBan.csproj.AssemblyReference.cache
+C:\Users\hoang\C#\buoi1\bai10\CSharpCanBan\obj\Debug\net6.0\CSharpCanBan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\C#\buoi1\bai10\CSharpCanBan\obj\Debug\net6.0\CSharpCanBan.AssemblyInfoInputs.cache
+C:\Users\hoang\C#\buoi1\bai10\CSharpCanBan\obj\Debug\net6.0\CSharpCanBan.AssemblyInfo.cs
+C:\Users\hoang\C#\buoi1\bai10\CSharpCanBan\obj\Debug\net6.0\CSharpCanBan.csproj.CoreCompileInputs.cache
+C:\Users\hoang\C#\buoi1\bai10\CSharpCanBan\obj\Debug\net6.0\CSharpCanBan.dll
+C:\Users\hoang\C#\buoi1\bai10\CSharpCanBan\obj\Debug\net6.0\refint\CSharpCanBan.dll
+C:\Users\hoang\C#\buoi1\bai10\CSharpCanBan\obj\Debug\net6.0\CSharpCanBan.pdb
+C:\Users\hoang\C#\buoi1\bai10\CSharpCanBan\obj\Debug\net6.0\CSharpCanBan.genruntimeconfig.cache
+C:\Users\hoang\C#\buoi1\bai10\CSharpCanBan\obj\Debug\net6.0\ref\CSharpCanBan.dll

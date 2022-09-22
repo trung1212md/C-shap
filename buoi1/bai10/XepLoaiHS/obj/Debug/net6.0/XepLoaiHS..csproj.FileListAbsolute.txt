@@ -1,0 +1,15 @@
+C:\Users\hoang\C#\buoi1\bai10\XepLoaiHS\bin\Debug\net6.0\XepLoaiHS..exe
+C:\Users\hoang\C#\buoi1\bai10\XepLoaiHS\bin\Debug\net6.0\XepLoaiHS..deps.json
+C:\Users\hoang\C#\buoi1\bai10\XepLoaiHS\bin\Debug\net6.0\XepLoaiHS..runtimeconfig.json
+C:\Users\hoang\C#\buoi1\bai10\XepLoaiHS\bin\Debug\net6.0\XepLoaiHS..dll
+C:\Users\hoang\C#\buoi1\bai10\XepLoaiHS\bin\Debug\net6.0\XepLoaiHS..pdb
+C:\Users\hoang\C#\buoi1\bai10\XepLoaiHS\obj\Debug\net6.0\XepLoaiHS..csproj.AssemblyReference.cache
+C:\Users\hoang\C#\buoi1\bai10\XepLoaiHS\obj\Debug\net6.0\XepLoaiHS..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\C#\buoi1\bai10\XepLoaiHS\obj\Debug\net6.0\XepLoaiHS..AssemblyInfoInputs.cache
+C:\Users\hoang\C#\buoi1\bai10\XepLoaiHS\obj\Debug\net6.0\XepLoaiHS..AssemblyInfo.cs
+C:\Users\hoang\C#\buoi1\bai10\XepLoaiHS\obj\Debug\net6.0\XepLoaiHS..csproj.CoreCompileInputs.cache
+C:\Users\hoang\C#\buoi1\bai10\XepLoaiHS\obj\Debug\net6.0\XepLoaiHS..dll
+C:\Users\hoang\C#\buoi1\bai10\XepLoaiHS\obj\Debug\net6.0\refint\XepLoaiHS..dll
+C:\Users\hoang\C#\buoi1\bai10\XepLoaiHS\obj\Debug\net6.0\XepLoaiHS..pdb
+C:\Users\hoang\C#\buoi1\bai10\XepLoaiHS\obj\Debug\net6.0\XepLoaiHS..genruntimeconfig.cache
+C:\Users\hoang\C#\buoi1\bai10\XepLoaiHS\obj\Debug\net6.0\ref\XepLoaiHS..dll

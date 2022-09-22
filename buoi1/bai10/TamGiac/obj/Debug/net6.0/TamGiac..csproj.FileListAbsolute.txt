@@ -1,0 +1,15 @@
+C:\Users\hoang\C#\buoi1\bai10\TamGiac\bin\Debug\net6.0\TamGiac..exe
+C:\Users\hoang\C#\buoi1\bai10\TamGiac\bin\Debug\net6.0\TamGiac..deps.json
+C:\Users\hoang\C#\buoi1\bai10\TamGiac\bin\Debug\net6.0\TamGiac..runtimeconfig.json
+C:\Users\hoang\C#\buoi1\bai10\TamGiac\bin\Debug\net6.0\TamGiac..dll
+C:\Users\hoang\C#\buoi1\bai10\TamGiac\bin\Debug\net6.0\TamGiac..pdb
+C:\Users\hoang\C#\buoi1\bai10\TamGiac\obj\Debug\net6.0\TamGiac..csproj.AssemblyReference.cache
+C:\Users\hoang\C#\buoi1\bai10\TamGiac\obj\Debug\net6.0\TamGiac..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\C#\buoi1\bai10\TamGiac\obj\Debug\net6.0\TamGiac..AssemblyInfoInputs.cache
+C:\Users\hoang\C#\buoi1\bai10\TamGiac\obj\Debug\net6.0\TamGiac..AssemblyInfo.cs
+C:\Users\hoang\C#\buoi1\bai10\TamGiac\obj\Debug\net6.0\TamGiac..csproj.CoreCompileInputs.cache
+C:\Users\hoang\C#\buoi1\bai10\TamGiac\obj\Debug\net6.0\TamGiac..dll
+C:\Users\hoang\C#\buoi1\bai10\TamGiac\obj\Debug\net6.0\refint\TamGiac..dll
+C:\Users\hoang\C#\buoi1\bai10\TamGiac\obj\Debug\net6.0\TamGiac..pdb
+C:\Users\hoang\C#\buoi1\bai10\TamGiac\obj\Debug\net6.0\TamGiac..genruntimeconfig.cache
+C:\Users\hoang\C#\buoi1\bai10\TamGiac\obj\Debug\net6.0\ref\TamGiac..dll
