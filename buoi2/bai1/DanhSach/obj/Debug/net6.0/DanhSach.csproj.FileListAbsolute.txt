@@ -1,0 +1,15 @@
+C:\Users\hoang\C#\buoi2\bai1\DanhSach\bin\Debug\net6.0\DanhSach.exe
+C:\Users\hoang\C#\buoi2\bai1\DanhSach\bin\Debug\net6.0\DanhSach.deps.json
+C:\Users\hoang\C#\buoi2\bai1\DanhSach\bin\Debug\net6.0\DanhSach.runtimeconfig.json
+C:\Users\hoang\C#\buoi2\bai1\DanhSach\bin\Debug\net6.0\DanhSach.dll
+C:\Users\hoang\C#\buoi2\bai1\DanhSach\bin\Debug\net6.0\DanhSach.pdb
+C:\Users\hoang\C#\buoi2\bai1\DanhSach\obj\Debug\net6.0\DanhSach.csproj.AssemblyReference.cache
+C:\Users\hoang\C#\buoi2\bai1\DanhSach\obj\Debug\net6.0\DanhSach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\C#\buoi2\bai1\DanhSach\obj\Debug\net6.0\DanhSach.AssemblyInfoInputs.cache
+C:\Users\hoang\C#\buoi2\bai1\DanhSach\obj\Debug\net6.0\DanhSach.AssemblyInfo.cs
+C:\Users\hoang\C#\buoi2\bai1\DanhSach\obj\Debug\net6.0\DanhSach.csproj.CoreCompileInputs.cache
+C:\Users\hoang\C#\buoi2\bai1\DanhSach\obj\Debug\net6.0\DanhSach.dll
+C:\Users\hoang\C#\buoi2\bai1\DanhSach\obj\Debug\net6.0\refint\DanhSach.dll
+C:\Users\hoang\C#\buoi2\bai1\DanhSach\obj\Debug\net6.0\DanhSach.pdb
+C:\Users\hoang\C#\buoi2\bai1\DanhSach\obj\Debug\net6.0\DanhSach.genruntimeconfig.cache
+C:\Users\hoang\C#\buoi2\bai1\DanhSach\obj\Debug\net6.0\ref\DanhSach.dll

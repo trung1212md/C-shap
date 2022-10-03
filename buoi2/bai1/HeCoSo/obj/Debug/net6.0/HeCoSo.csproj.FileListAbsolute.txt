@@ -1,0 +1,15 @@
+C:\Users\hoang\C#\buoi2\bai1\HeCoSo\bin\Debug\net6.0\HeCoSo.exe
+C:\Users\hoang\C#\buoi2\bai1\HeCoSo\bin\Debug\net6.0\HeCoSo.deps.json
+C:\Users\hoang\C#\buoi2\bai1\HeCoSo\bin\Debug\net6.0\HeCoSo.runtimeconfig.json
+C:\Users\hoang\C#\buoi2\bai1\HeCoSo\bin\Debug\net6.0\HeCoSo.dll
+C:\Users\hoang\C#\buoi2\bai1\HeCoSo\bin\Debug\net6.0\HeCoSo.pdb
+C:\Users\hoang\C#\buoi2\bai1\HeCoSo\obj\Debug\net6.0\HeCoSo.csproj.AssemblyReference.cache
+C:\Users\hoang\C#\buoi2\bai1\HeCoSo\obj\Debug\net6.0\HeCoSo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\C#\buoi2\bai1\HeCoSo\obj\Debug\net6.0\HeCoSo.AssemblyInfoInputs.cache
+C:\Users\hoang\C#\buoi2\bai1\HeCoSo\obj\Debug\net6.0\HeCoSo.AssemblyInfo.cs
+C:\Users\hoang\C#\buoi2\bai1\HeCoSo\obj\Debug\net6.0\HeCoSo.csproj.CoreCompileInputs.cache
+C:\Users\hoang\C#\buoi2\bai1\HeCoSo\obj\Debug\net6.0\HeCoSo.dll
+C:\Users\hoang\C#\buoi2\bai1\HeCoSo\obj\Debug\net6.0\refint\HeCoSo.dll
+C:\Users\hoang\C#\buoi2\bai1\HeCoSo\obj\Debug\net6.0\HeCoSo.pdb
+C:\Users\hoang\C#\buoi2\bai1\HeCoSo\obj\Debug\net6.0\HeCoSo.genruntimeconfig.cache
+C:\Users\hoang\C#\buoi2\bai1\HeCoSo\obj\Debug\net6.0\ref\HeCoSo.dll

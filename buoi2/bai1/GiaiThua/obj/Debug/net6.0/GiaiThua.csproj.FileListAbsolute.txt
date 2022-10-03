@@ -1,0 +1,15 @@
+C:\Users\hoang\C#\buoi2\bai1\GiaiThua\bin\Debug\net6.0\GiaiThua.exe
+C:\Users\hoang\C#\buoi2\bai1\GiaiThua\bin\Debug\net6.0\GiaiThua.deps.json
+C:\Users\hoang\C#\buoi2\bai1\GiaiThua\bin\Debug\net6.0\GiaiThua.runtimeconfig.json
+C:\Users\hoang\C#\buoi2\bai1\GiaiThua\bin\Debug\net6.0\GiaiThua.dll
+C:\Users\hoang\C#\buoi2\bai1\GiaiThua\bin\Debug\net6.0\GiaiThua.pdb
+C:\Users\hoang\C#\buoi2\bai1\GiaiThua\obj\Debug\net6.0\GiaiThua.csproj.AssemblyReference.cache
+C:\Users\hoang\C#\buoi2\bai1\GiaiThua\obj\Debug\net6.0\GiaiThua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\C#\buoi2\bai1\GiaiThua\obj\Debug\net6.0\GiaiThua.AssemblyInfoInputs.cache
+C:\Users\hoang\C#\buoi2\bai1\GiaiThua\obj\Debug\net6.0\GiaiThua.AssemblyInfo.cs
+C:\Users\hoang\C#\buoi2\bai1\GiaiThua\obj\Debug\net6.0\GiaiThua.csproj.CoreCompileInputs.cache
+C:\Users\hoang\C#\buoi2\bai1\GiaiThua\obj\Debug\net6.0\GiaiThua.dll
+C:\Users\hoang\C#\buoi2\bai1\GiaiThua\obj\Debug\net6.0\refint\GiaiThua.dll
+C:\Users\hoang\C#\buoi2\bai1\GiaiThua\obj\Debug\net6.0\GiaiThua.pdb
+C:\Users\hoang\C#\buoi2\bai1\GiaiThua\obj\Debug\net6.0\GiaiThua.genruntimeconfig.cache
+C:\Users\hoang\C#\buoi2\bai1\GiaiThua\obj\Debug\net6.0\ref\GiaiThua.dll

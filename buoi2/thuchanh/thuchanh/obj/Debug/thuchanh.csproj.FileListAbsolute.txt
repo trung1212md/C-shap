@@ -1,0 +1,8 @@
+C:\Users\hoang\C#\buoi2\thuchanh\thuchanh\bin\Debug\thuchanh.exe.config
+C:\Users\hoang\C#\buoi2\thuchanh\thuchanh\bin\Debug\thuchanh.exe
+C:\Users\hoang\C#\buoi2\thuchanh\thuchanh\bin\Debug\thuchanh.pdb
+C:\Users\hoang\C#\buoi2\thuchanh\thuchanh\obj\Debug\thuchanh.csproj.AssemblyReference.cache
+C:\Users\hoang\C#\buoi2\thuchanh\thuchanh\obj\Debug\thuchanh.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoang\C#\buoi2\thuchanh\thuchanh\obj\Debug\thuchanh.csproj.CoreCompileInputs.cache
+C:\Users\hoang\C#\buoi2\thuchanh\thuchanh\obj\Debug\thuchanh.exe
+C:\Users\hoang\C#\buoi2\thuchanh\thuchanh\obj\Debug\thuchanh.pdb

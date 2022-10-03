@@ -1,0 +1,8 @@
+C:\Users\hoang\C#\buoi2\Danhsach\bin\Debug\Danhsach.exe.config
+C:\Users\hoang\C#\buoi2\Danhsach\bin\Debug\Danhsach.exe
+C:\Users\hoang\C#\buoi2\Danhsach\bin\Debug\Danhsach.pdb
+C:\Users\hoang\C#\buoi2\Danhsach\obj\Debug\Danhsach.csproj.AssemblyReference.cache
+C:\Users\hoang\C#\buoi2\Danhsach\obj\Debug\Danhsach.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoang\C#\buoi2\Danhsach\obj\Debug\Danhsach.csproj.CoreCompileInputs.cache
+C:\Users\hoang\C#\buoi2\Danhsach\obj\Debug\Danhsach.exe
+C:\Users\hoang\C#\buoi2\Danhsach\obj\Debug\Danhsach.pdb

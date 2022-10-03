@@ -1,0 +1,3 @@
+C:\Users\hoang\C#\buoi2\bai2\PhuongThuc\obj\Debug\PhuongThuc.csproj.AssemblyReference.cache
+C:\Users\hoang\C#\buoi2\bai2\PhuongThuc\obj\Debug\PhuongThuc.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoang\C#\buoi2\bai2\PhuongThuc\obj\Debug\PhuongThuc.csproj.CoreCompileInputs.cache
