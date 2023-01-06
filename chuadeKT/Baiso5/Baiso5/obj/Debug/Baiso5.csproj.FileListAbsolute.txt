@@ -1,0 +1,8 @@
+C:\Users\hoang\C#\chuadeKT\Baiso5\Baiso5\bin\Debug\Baiso5.exe.config
+C:\Users\hoang\C#\chuadeKT\Baiso5\Baiso5\bin\Debug\Baiso5.exe
+C:\Users\hoang\C#\chuadeKT\Baiso5\Baiso5\bin\Debug\Baiso5.pdb
+C:\Users\hoang\C#\chuadeKT\Baiso5\Baiso5\obj\Debug\Baiso5.csproj.AssemblyReference.cache
+C:\Users\hoang\C#\chuadeKT\Baiso5\Baiso5\obj\Debug\Baiso5.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoang\C#\chuadeKT\Baiso5\Baiso5\obj\Debug\Baiso5.csproj.CoreCompileInputs.cache
+C:\Users\hoang\C#\chuadeKT\Baiso5\Baiso5\obj\Debug\Baiso5.exe
+C:\Users\hoang\C#\chuadeKT\Baiso5\Baiso5\obj\Debug\Baiso5.pdb

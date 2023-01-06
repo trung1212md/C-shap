@@ -1,0 +1,42 @@
+﻿<Window x:Class="onthi1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:onthi1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="window_click">
+    <Grid Margin="5,12,-5,-12">
+        <Label Content="QUAN LY SAN PHAM" HorizontalAlignment="Left" Margin="309,9,0,0" VerticalAlignment="Top"/>
+        <Label Content="SO LUONG " HorizontalAlignment="Left" Margin="95,110,0,0" VerticalAlignment="Top"/>
+        <Label Content="&#x9;MA LOAI" HorizontalAlignment="Left" Margin="57,170,0,0" VerticalAlignment="Top"/>
+        <Label Content="TEN SAN PHAM" HorizontalAlignment="Left" Margin="82,76,0,0" VerticalAlignment="Top"/>
+        <Label Content="MA SAN PHAM" HorizontalAlignment="Left" Margin="79,49,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtmasanpham" HorizontalAlignment="Left" Margin="185,56,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185"/>
+        <TextBox HorizontalAlignment="Left" Margin="181,90,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185" />
+        <TextBox HorizontalAlignment="Left" Margin="184,118,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185"/>
+        <Button x:Name="btthem" Content="Thêm" HorizontalAlignment="Left" Margin="560,77,0,0" VerticalAlignment="Top" Width="53" Click="btthem_Click"/>
+        <Button x:Name="btxoa" Content="Xóa" HorizontalAlignment="Left" Margin="562,110,0,0" VerticalAlignment="Top" Width="50"/>
+        <Button x:Name="btthoat" Content="Thoát" HorizontalAlignment="Left" Margin="467,80,0,0" VerticalAlignment="Top" Width="61"/>
+        <Button x:Name="btsua" Content="Sửa" HorizontalAlignment="Left" Margin="560,135,0,0" VerticalAlignment="Top" Width="55"/>
+        <DataGrid x:Name="datagird" d:ItemsSource="{d:SampleData ItemCount=0}" Margin="0,218,0,0" SelectionChanged="datagird_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Ma san pham" Binding="{Binding masanpham}"/>
+                <DataGridTextColumn Header="Ten san pham" Binding="{Binding tensanpham}"/>
+                <DataGridTextColumn Header="So luong" Binding="{Binding soluong}"/>
+                <DataGridTextColumn Header="Đơn giá" Binding="{Binding dongia}"/>
+                <DataGridTextColumn Header="Ma loai" Binding="{Binding tenhang}"/>
+
+
+
+            </DataGrid.Columns>
+
+        </DataGrid>
+        <TextBox HorizontalAlignment="Left" Margin="184,118,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185"/>
+        <TextBox HorizontalAlignment="Left" Margin="185,179,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185"/>
+        <Label Content="DON GIA&#xD;&#xA;" HorizontalAlignment="Left" Margin="101,137,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="187,150,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185"/>
+        <TextBox x:Name="txtmasanpham1" HorizontalAlignment="Left" Margin="447,182,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="185"/>
+
+    </Grid>
+</Window>

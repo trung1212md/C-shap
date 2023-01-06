@@ -1,0 +1,11 @@
+C:\Users\hoang\C#\buoi 9\ADO.NET - Đề 37\NguyenDinhHuan\NguyenDinhHuan\bin\Debug\NguyenDinhHuan.exe.config
+C:\Users\hoang\C#\buoi 9\ADO.NET - Đề 37\NguyenDinhHuan\NguyenDinhHuan\bin\Debug\NguyenDinhHuan.exe
+C:\Users\hoang\C#\buoi 9\ADO.NET - Đề 37\NguyenDinhHuan\NguyenDinhHuan\bin\Debug\NguyenDinhHuan.pdb
+C:\Users\hoang\C#\buoi 9\ADO.NET - Đề 37\NguyenDinhHuan\NguyenDinhHuan\obj\Debug\NguyenDinhHuan.csproj.AssemblyReference.cache
+C:\Users\hoang\C#\buoi 9\ADO.NET - Đề 37\NguyenDinhHuan\NguyenDinhHuan\obj\Debug\NguyenDinhHuan.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoang\C#\buoi 9\ADO.NET - Đề 37\NguyenDinhHuan\NguyenDinhHuan\obj\Debug\NguyenDinhHuan.Form1.resources
+C:\Users\hoang\C#\buoi 9\ADO.NET - Đề 37\NguyenDinhHuan\NguyenDinhHuan\obj\Debug\NguyenDinhHuan.Properties.Resources.resources
+C:\Users\hoang\C#\buoi 9\ADO.NET - Đề 37\NguyenDinhHuan\NguyenDinhHuan\obj\Debug\NguyenDinhHuan.csproj.GenerateResource.cache
+C:\Users\hoang\C#\buoi 9\ADO.NET - Đề 37\NguyenDinhHuan\NguyenDinhHuan\obj\Debug\NguyenDinhHuan.csproj.CoreCompileInputs.cache
+C:\Users\hoang\C#\buoi 9\ADO.NET - Đề 37\NguyenDinhHuan\NguyenDinhHuan\obj\Debug\NguyenDinhHuan.exe
+C:\Users\hoang\C#\buoi 9\ADO.NET - Đề 37\NguyenDinhHuan\NguyenDinhHuan\obj\Debug\NguyenDinhHuan.pdb

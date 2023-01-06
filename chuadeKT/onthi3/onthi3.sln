@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "onthi3", "onthi3\onthi3.csproj", "{5EA5E6A1-2F3F-4E0C-AB3B-FFF1D23F8328}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EA5E6A1-2F3F-4E0C-AB3B-FFF1D23F8328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA5E6A1-2F3F-4E0C-AB3B-FFF1D23F8328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA5E6A1-2F3F-4E0C-AB3B-FFF1D23F8328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA5E6A1-2F3F-4E0C-AB3B-FFF1D23F8328}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB77293C-34D4-49D6-9C4A-9B3737DB4546}
+	EndGlobalSection
+EndGlobal

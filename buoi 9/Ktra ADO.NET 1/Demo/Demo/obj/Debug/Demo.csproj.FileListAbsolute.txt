@@ -1,0 +1,32 @@
+D:\Ktra C#\Demo\Demo\bin\Debug\Demo.exe.config
+D:\Ktra C#\Demo\Demo\bin\Debug\Demo.exe
+D:\Ktra C#\Demo\Demo\bin\Debug\Demo.pdb
+D:\Ktra C#\Demo\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+D:\Ktra C#\Demo\Demo\obj\Debug\Demo.Form1.resources
+D:\Ktra C#\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+D:\Ktra C#\Demo\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+D:\Ktra C#\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+D:\Ktra C#\Demo\Demo\obj\Debug\Demo.exe
+D:\Ktra C#\Demo\Demo\obj\Debug\Demo.pdb
+C:\Users\hoang\Downloads\dotnet_HaUI-master (1)\dotnet_HaUI-master\Giai_De_Ktra\Ktra ADO.NET 1\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\hoang\Downloads\dotnet_HaUI-master (1)\dotnet_HaUI-master\Giai_De_Ktra\Ktra ADO.NET 1\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\hoang\Downloads\dotnet_HaUI-master (1)\dotnet_HaUI-master\Giai_De_Ktra\Ktra ADO.NET 1\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\hoang\Downloads\dotnet_HaUI-master (1)\dotnet_HaUI-master\Giai_De_Ktra\Ktra ADO.NET 1\Demo\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+C:\Users\hoang\Downloads\dotnet_HaUI-master (1)\dotnet_HaUI-master\Giai_De_Ktra\Ktra ADO.NET 1\Demo\Demo\obj\Debug\Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoang\Downloads\dotnet_HaUI-master (1)\dotnet_HaUI-master\Giai_De_Ktra\Ktra ADO.NET 1\Demo\Demo\obj\Debug\Demo.Form1.resources
+C:\Users\hoang\Downloads\dotnet_HaUI-master (1)\dotnet_HaUI-master\Giai_De_Ktra\Ktra ADO.NET 1\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\hoang\Downloads\dotnet_HaUI-master (1)\dotnet_HaUI-master\Giai_De_Ktra\Ktra ADO.NET 1\Demo\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+C:\Users\hoang\Downloads\dotnet_HaUI-master (1)\dotnet_HaUI-master\Giai_De_Ktra\Ktra ADO.NET 1\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Downloads\dotnet_HaUI-master (1)\dotnet_HaUI-master\Giai_De_Ktra\Ktra ADO.NET 1\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\hoang\Downloads\dotnet_HaUI-master (1)\dotnet_HaUI-master\Giai_De_Ktra\Ktra ADO.NET 1\Demo\Demo\obj\Debug\Demo.pdb
+C:\Users\hoang\C#\buoi 9\Ktra ADO.NET 1\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\hoang\C#\buoi 9\Ktra ADO.NET 1\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\hoang\C#\buoi 9\Ktra ADO.NET 1\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\hoang\C#\buoi 9\Ktra ADO.NET 1\Demo\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+C:\Users\hoang\C#\buoi 9\Ktra ADO.NET 1\Demo\Demo\obj\Debug\Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoang\C#\buoi 9\Ktra ADO.NET 1\Demo\Demo\obj\Debug\Demo.Form1.resources
+C:\Users\hoang\C#\buoi 9\Ktra ADO.NET 1\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\hoang\C#\buoi 9\Ktra ADO.NET 1\Demo\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+C:\Users\hoang\C#\buoi 9\Ktra ADO.NET 1\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\hoang\C#\buoi 9\Ktra ADO.NET 1\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\hoang\C#\buoi 9\Ktra ADO.NET 1\Demo\Demo\obj\Debug\Demo.pdb

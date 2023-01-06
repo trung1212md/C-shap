@@ -1,0 +1,37 @@
+﻿<Window x:Class="ontap1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ontap1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="0,0,0,-187" HorizontalAlignment="Left" Width="882">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="31*"/>
+            <ColumnDefinition Width="19*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock HorizontalAlignment="Left" Margin="220,42,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Text="DANH MỤCH NHÂN VIÊN"/><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="63,85,0,0" TextWrapping="Wrap" Text="Thông tin chi tiết" VerticalAlignment="Top" Height="14"/>
+        <TextBlock HorizontalAlignment="Left" Margin="300,127,0,0" TextWrapping="Wrap" Text="Điện thoại " VerticalAlignment="Top" Height="13"/>
+        <TextBlock HorizontalAlignment="Left" Margin="63,123,0,0" TextWrapping="Wrap" Text="Họ Tên" VerticalAlignment="Top" Height="13"/>
+        <TextBlock HorizontalAlignment="Left" Margin="61,152,0,0" TextWrapping="Wrap" Text="Ngày Sinh" VerticalAlignment="Top" RenderTransformOrigin="0.617,-0.43" Height="14"/>
+        <TextBlock HorizontalAlignment="Left" Margin="304,160,0,0" TextWrapping="Wrap" Text="Địa chỉ" VerticalAlignment="Top" Height="13"/>
+        <TextBox HorizontalAlignment="Left" Margin="369,159,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" Height="15"/>
+        <TextBox HorizontalAlignment="Left" Margin="134,125,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" Height="15"/>
+        <TextBox HorizontalAlignment="Left" Margin="136,152,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" Height="15"/>
+        <TextBox HorizontalAlignment="Left" Margin="367,127,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" Height="15"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="279,206,0,0" VerticalAlignment="Top" Height="19"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="389,205,0,0" VerticalAlignment="Top" Click="Button_Click_1" Height="20"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="334,204,0,0" VerticalAlignment="Top" Height="19" RenderTransformOrigin="0.434,0.854"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="453,205,0,0" VerticalAlignment="Top" Height="20"/>
+        <ListView Margin="-4,239,4,185" SelectionChanged="ListView_SelectionChanged_1" d:ItemsSource="{d:SampleData ItemCount=5}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+    </Grid>
+</Window>

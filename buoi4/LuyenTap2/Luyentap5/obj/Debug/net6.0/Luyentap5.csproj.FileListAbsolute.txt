@@ -1,0 +1,15 @@
+C:\Users\hoang\C#\buoi4\LuyenTap2\Luyentap5\obj\Debug\net6.0\Luyentap5.csproj.AssemblyReference.cache
+C:\Users\hoang\C#\buoi4\LuyenTap2\Luyentap5\obj\Debug\net6.0\Luyentap5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\C#\buoi4\LuyenTap2\Luyentap5\obj\Debug\net6.0\Luyentap5.AssemblyInfoInputs.cache
+C:\Users\hoang\C#\buoi4\LuyenTap2\Luyentap5\obj\Debug\net6.0\Luyentap5.AssemblyInfo.cs
+C:\Users\hoang\C#\buoi4\LuyenTap2\Luyentap5\obj\Debug\net6.0\Luyentap5.csproj.CoreCompileInputs.cache
+C:\Users\hoang\C#\buoi4\LuyenTap2\Luyentap5\bin\Debug\net6.0\Luyentap5.exe
+C:\Users\hoang\C#\buoi4\LuyenTap2\Luyentap5\bin\Debug\net6.0\Luyentap5.deps.json
+C:\Users\hoang\C#\buoi4\LuyenTap2\Luyentap5\bin\Debug\net6.0\Luyentap5.runtimeconfig.json
+C:\Users\hoang\C#\buoi4\LuyenTap2\Luyentap5\bin\Debug\net6.0\Luyentap5.dll
+C:\Users\hoang\C#\buoi4\LuyenTap2\Luyentap5\bin\Debug\net6.0\Luyentap5.pdb
+C:\Users\hoang\C#\buoi4\LuyenTap2\Luyentap5\obj\Debug\net6.0\Luyentap5.dll
+C:\Users\hoang\C#\buoi4\LuyenTap2\Luyentap5\obj\Debug\net6.0\refint\Luyentap5.dll
+C:\Users\hoang\C#\buoi4\LuyenTap2\Luyentap5\obj\Debug\net6.0\Luyentap5.pdb
+C:\Users\hoang\C#\buoi4\LuyenTap2\Luyentap5\obj\Debug\net6.0\Luyentap5.genruntimeconfig.cache
+C:\Users\hoang\C#\buoi4\LuyenTap2\Luyentap5\obj\Debug\net6.0\ref\Luyentap5.dll

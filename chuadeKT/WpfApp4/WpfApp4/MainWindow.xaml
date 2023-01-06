@@ -1,0 +1,38 @@
+﻿<Window x:Class="WpfApp4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <Label Content="Mã Bệnh Nhân" HorizontalAlignment="Left" Margin="57,36,0,0" VerticalAlignment="Top"/>
+        <Label Content="Họ Tên" HorizontalAlignment="Left" Margin="92,68,0,0" VerticalAlignment="Top"/>
+        <Label Content="Địa chỉ" HorizontalAlignment="Left" Margin="91,97,0,0" VerticalAlignment="Top"/>
+        <Label Content="Số ngày năm viện" HorizontalAlignment="Left" Margin="52,132,0,0" VerticalAlignment="Top"/>
+        <Label Content="Khoa Khám" HorizontalAlignment="Left" Margin="81,160,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="mabn" HorizontalAlignment="Left" Margin="175,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="262"/>
+        <TextBox x:Name="hoten" HorizontalAlignment="Left" Margin="172,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="262"/>
+        <TextBox x:Name="diachi" HorizontalAlignment="Left" Margin="174,100,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="262"/>
+        <TextBox x:Name="songaynv" HorizontalAlignment="Left" Margin="172,136,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="262"/>
+        <ComboBox x:Name="khoa" HorizontalAlignment="Left" Margin="175,165,0,0" VerticalAlignment="Top" Width="262"/>
+        <DataGrid x:Name="listBN" Margin="0,212,0,70" AutoGenerateColumns="False" SelectionChanged="listBN_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="MaBN" Binding="{Binding MaBn}"/>
+                <DataGridTextColumn Header="Họ Tên" Binding="{Binding HoTen}"/>
+                <DataGridTextColumn Header="Mã Khoa" Binding="{Binding MaKhoa}"/>
+                <DataGridTextColumn Header="Địa chỉ" Binding="{Binding DiaChi}"/>
+                <DataGridTextColumn Header="Số Ngày nằm Viện" Binding="{Binding SoNgayNamVien}"/>
+                <DataGridTextColumn Header="Viện Phí" Binding="{Binding VienPhi}" Width="*"/>
+            </DataGrid.Columns> 
+            
+        </DataGrid>
+        <Button Content="Thêm" HorizontalAlignment="Left" Margin="21,382,0,0" VerticalAlignment="Top" Width="74" Height="27" Click="Button_Click"/>
+        <Button Content="Sửa" HorizontalAlignment="Left" Margin="181,381,0,0" VerticalAlignment="Top" Width="76" Height="27" Click="Button_Click_1"/>
+        <Button Content="Xóa" HorizontalAlignment="Left" Margin="344,382,0,0" VerticalAlignment="Top" Width="78" Height="27" Click="Button_Click_2"/>
+        <Button Content="Tìm" HorizontalAlignment="Left" Margin="516,382,0,0" VerticalAlignment="Top" Width="62" Height="27"/>
+        <Button Content="Thống kê" HorizontalAlignment="Left" Margin="683,382,0,0" VerticalAlignment="Top" Width="56" Height="27"/>
+
+    </Grid>
+</Window>

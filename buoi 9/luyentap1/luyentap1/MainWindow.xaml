@@ -1,0 +1,28 @@
+﻿<Window x:Class="luyentap1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:luyentap1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox Name="leftBox" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="129,98,555,188" SelectionChanged="ListBox_SelectionChanged" ItemsSource="{Binding}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Name}"/>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <ListBox Name="rightBox" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="411,93,262,189" SelectionChanged="ListBox_SelectionChanged_1" ItemsSource="{Binding}">
+            <ListBox.ItemTemplate>
+            <DataTemplate>
+                <TextBlock Text="{Binding Name}"/>
+            </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Button Content="&gt;" HorizontalAlignment="Left" Margin="302,137,0,0" VerticalAlignment="Top" Click="Button_Click" Width="53"/>
+        <Button Content="&lt;" HorizontalAlignment="Left" Margin="312,181,0,0" VerticalAlignment="Top" Width="46" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,3 @@
+C:\Users\hoang\C#\buoi4\Luyentap5\obj\Debug\Luyentap5.csproj.AssemblyReference.cache
+C:\Users\hoang\C#\buoi4\Luyentap5\obj\Debug\Luyentap5.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoang\C#\buoi4\Luyentap5\obj\Debug\Luyentap5.csproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+C:\Users\hoang\C#\buoi4\phieubai1\phieubai1\obj\Debug\phieubai1.csproj.AssemblyReference.cache
+C:\Users\hoang\C#\buoi4\phieubai1\phieubai1\obj\Debug\phieubai1.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoang\C#\buoi4\phieubai1\phieubai1\obj\Debug\phieubai1.csproj.CoreCompileInputs.cache
+C:\Users\hoang\C#\buoi4\phieubai1\phieubai1\bin\Debug\phieubai1.exe.config
+C:\Users\hoang\C#\buoi4\phieubai1\phieubai1\bin\Debug\phieubai1.exe
+C:\Users\hoang\C#\buoi4\phieubai1\phieubai1\bin\Debug\phieubai1.pdb
+C:\Users\hoang\C#\buoi4\phieubai1\phieubai1\obj\Debug\phieubai1.exe
+C:\Users\hoang\C#\buoi4\phieubai1\phieubai1\obj\Debug\phieubai1.pdb

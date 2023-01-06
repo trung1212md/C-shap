@@ -1,0 +1,43 @@
+﻿<Window x:Class="luyentap.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:luyentap"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Width="1027" Margin="0,0,0,7">
+        <Grid.RenderTransform>
+            <TransformGroup>
+                <ScaleTransform/>
+                <SkewTransform/>
+                <RotateTransform Angle="0.13"/>
+                <TranslateTransform/>
+            </TransformGroup>
+        </Grid.RenderTransform>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="267*"/>
+            <ColumnDefinition Width="533*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Tên" HorizontalAlignment="Right" Margin="0,139,258,0" VerticalAlignment="Top" FontSize="16" Height="40" RenderTransformOrigin="-0.174,0.542" FontFamily="Times New Roman"/>
+        <Label Content="Họ đệm" HorizontalAlignment="Left" Margin="48,96,0,0" VerticalAlignment="Top" FontSize="16" RenderTransformOrigin="0.103,0.485" FontFamily="Times New Roman"/>
+        <TextBox HorizontalAlignment="Left" Margin="145,102,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged" FontFamily="Times New Roman"/>
+        <TextBox HorizontalAlignment="Left" Margin="145,144,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged_1"/>
+        <Label Content="Giới Tính" HorizontalAlignment="Left" Margin="49,194,0,0" VerticalAlignment="Top"/>
+        <Label Content="Ngoại Ngữ" HorizontalAlignment="Left" Margin="49,245,0,0" VerticalAlignment="Top"/>
+        <Label Content="Quê quán" HorizontalAlignment="Left" Margin="48,288,0,0" VerticalAlignment="Top"/>
+        <RadioButton Name="radionam" IsChecked="True" Content="Nam" HorizontalAlignment="Left" Margin="141,196,0,0" VerticalAlignment="Top" Checked="RadioButton_Checked"/>
+        <RadioButton Name="radionu" Content="Nữ" HorizontalAlignment="Left" Margin="242,198,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.379,0.72"/>
+        <CheckBox Content="Tiếng Anh" HorizontalAlignment="Left" Margin="141,253,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked"/>
+        <CheckBox Content="Tiếng Trung" HorizontalAlignment="Left" Margin="244,251,0,0" VerticalAlignment="Top"/>
+        <ComboBox HorizontalAlignment="Left" Margin="161,296,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="ComboBox_SelectionChanged_1" SelectedIndex="0">
+            <ComboBoxItem>Hà Nội</ComboBoxItem>
+            <ComboBoxItem>TP Hồ Chí Minh</ComboBoxItem>
+            <ComboBoxItem>Hải Phòng</ComboBoxItem>
+            <ComboBoxItem>Đà nặng</ComboBoxItem>
+        </ComboBox>
+        <Button Content="Xem thông tin" HorizontalAlignment="Left" Margin="137,363,0,0" VerticalAlignment="Top"/>
+        <Button Content="Nhập Lại" HorizontalAlignment="Left" Margin="247,362,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

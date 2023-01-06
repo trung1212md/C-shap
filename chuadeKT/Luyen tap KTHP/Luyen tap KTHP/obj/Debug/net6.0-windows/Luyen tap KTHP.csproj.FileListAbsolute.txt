@@ -1,0 +1,21 @@
+C:\Users\hoang\C#\chuadeKT\Luyen tap KTHP\Luyen tap KTHP\bin\Debug\net6.0-windows\Luyen tap KTHP.exe
+C:\Users\hoang\C#\chuadeKT\Luyen tap KTHP\Luyen tap KTHP\bin\Debug\net6.0-windows\Luyen tap KTHP.deps.json
+C:\Users\hoang\C#\chuadeKT\Luyen tap KTHP\Luyen tap KTHP\bin\Debug\net6.0-windows\Luyen tap KTHP.runtimeconfig.json
+C:\Users\hoang\C#\chuadeKT\Luyen tap KTHP\Luyen tap KTHP\bin\Debug\net6.0-windows\Luyen tap KTHP.dll
+C:\Users\hoang\C#\chuadeKT\Luyen tap KTHP\Luyen tap KTHP\bin\Debug\net6.0-windows\Luyen tap KTHP.pdb
+C:\Users\hoang\C#\chuadeKT\Luyen tap KTHP\Luyen tap KTHP\obj\Debug\net6.0-windows\Luyen tap KTHP.csproj.AssemblyReference.cache
+C:\Users\hoang\C#\chuadeKT\Luyen tap KTHP\Luyen tap KTHP\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\hoang\C#\chuadeKT\Luyen tap KTHP\Luyen tap KTHP\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\hoang\C#\chuadeKT\Luyen tap KTHP\Luyen tap KTHP\obj\Debug\net6.0-windows\Luyen tap KTHP_MarkupCompile.cache
+C:\Users\hoang\C#\chuadeKT\Luyen tap KTHP\Luyen tap KTHP\obj\Debug\net6.0-windows\Luyen tap KTHP_MarkupCompile.lref
+C:\Users\hoang\C#\chuadeKT\Luyen tap KTHP\Luyen tap KTHP\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\hoang\C#\chuadeKT\Luyen tap KTHP\Luyen tap KTHP\obj\Debug\net6.0-windows\Luyen tap KTHP.g.resources
+C:\Users\hoang\C#\chuadeKT\Luyen tap KTHP\Luyen tap KTHP\obj\Debug\net6.0-windows\Luyen tap KTHP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\C#\chuadeKT\Luyen tap KTHP\Luyen tap KTHP\obj\Debug\net6.0-windows\Luyen tap KTHP.AssemblyInfoInputs.cache
+C:\Users\hoang\C#\chuadeKT\Luyen tap KTHP\Luyen tap KTHP\obj\Debug\net6.0-windows\Luyen tap KTHP.AssemblyInfo.cs
+C:\Users\hoang\C#\chuadeKT\Luyen tap KTHP\Luyen tap KTHP\obj\Debug\net6.0-windows\Luyen tap KTHP.csproj.CoreCompileInputs.cache
+C:\Users\hoang\C#\chuadeKT\Luyen tap KTHP\Luyen tap KTHP\obj\Debug\net6.0-windows\Luyen tap KTHP.dll
+C:\Users\hoang\C#\chuadeKT\Luyen tap KTHP\Luyen tap KTHP\obj\Debug\net6.0-windows\refint\Luyen tap KTHP.dll
+C:\Users\hoang\C#\chuadeKT\Luyen tap KTHP\Luyen tap KTHP\obj\Debug\net6.0-windows\Luyen tap KTHP.pdb
+C:\Users\hoang\C#\chuadeKT\Luyen tap KTHP\Luyen tap KTHP\obj\Debug\net6.0-windows\Luyen tap KTHP.genruntimeconfig.cache
+C:\Users\hoang\C#\chuadeKT\Luyen tap KTHP\Luyen tap KTHP\obj\Debug\net6.0-windows\ref\Luyen tap KTHP.dll

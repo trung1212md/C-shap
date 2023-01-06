@@ -1,0 +1,54 @@
+﻿<Window x:Class="ontap2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ontap2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Ngày Sinh" HorizontalAlignment="Left" Margin="103,131,0,0" VerticalAlignment="Top"/>
+        <Label Content="Số tiền bán hàng" HorizontalAlignment="Left" Margin="84,173,0,0" VerticalAlignment="Top"/>
+        <Label Content="Quản Lý Nhân Viên" HorizontalAlignment="Left" Margin="251,13,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.956,0.387" Width="279" FontSize="20"/>
+        <Button Content="Nhập" HorizontalAlignment="Left" Margin="194,387,0,0" VerticalAlignment="Top" RenderTransformOrigin="0,-0.659" Click="Button_Click" Width="51"/>
+        <TextBox HorizontalAlignment="Left" Margin="217,54,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" RenderTransformOrigin="-1.367,-1.59"/>
+        <TextBox x:Name="txtPrice" HorizontalAlignment="Left" Margin="219,181,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="-1.367,-1.59"/>
+        <Label Content="Họ Tên" HorizontalAlignment="Left" Margin="103,43,0,0" VerticalAlignment="Top"/>
+        <Label Content="Loại Nhân viên" HorizontalAlignment="Left" Margin="108,92,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.636,1.589"/>
+        <TextBox x:Name="txtName" HorizontalAlignment="Left" Margin="217,54,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="-1.367,-1.59"/>
+        <ComboBox x:Name="cbxType" HorizontalAlignment="Left" Margin="217,91,0,0" VerticalAlignment="Top" Width="120"/>
+        <DatePicker x:Name="date" HorizontalAlignment="Left" Margin="219,137,0,0" VerticalAlignment="Top" Width="117"/>
+        <Button Content="Window 2" HorizontalAlignment="Left" Margin="505,385,0,0" VerticalAlignment="Top" Click="Button_Click_1" Width="69"/>
+        <ListBox x:Name="ListNV" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="0,217,0,72" ItemsSource="{Binding}" SelectionChanged="ListNV_SelectionChanged">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock>
+                        <Run Text="{Binding name}"/>
+                        <Run Text="_" />
+                         <Run Text="{Binding date}"/>
+                        <Run Text="_" />
+                         <Run Text="{Binding type}"/>
+                        <Run Text="_" />
+                         <Run Text="{Binding price}"/>
+                        <Run Text="_" />
+                         <Run Text="{Binding roseMoney}"/>
+                       
+                    </TextBlock>
+                </DataTemplate>
+
+            </ListBox.ItemTemplate>
+            
+        </ListBox>
+        <Button Content="Xóa" HorizontalAlignment="Left" Margin="364,389,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.434,-0.584" Click="Button_Click_2" Width="48">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.206"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+
+    </Grid>
+</Window>

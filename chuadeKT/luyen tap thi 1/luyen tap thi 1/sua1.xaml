@@ -1,0 +1,27 @@
+﻿<Window x:Class="luyen_tap_thi_1.sua1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:luyen_tap_thi_1"
+        mc:Ignorable="d"
+        Title="sua1" Height="450" Width="800">
+    <Grid>
+        <Label Content="Nhập mã sả phẩm" HorizontalAlignment="Left" Margin="33,13,0,0" VerticalAlignment="Top"/>
+        <Label Content="Mã sản phẩm" HorizontalAlignment="Left" Margin="51,91,0,0" VerticalAlignment="Top"/>
+        <Label Content="Tên sản phẩm" HorizontalAlignment="Left" Margin="53,133,0,0" VerticalAlignment="Top"/>
+        <Label Content="số lượng" HorizontalAlignment="Left" Margin="65,173,0,0" VerticalAlignment="Top"/>
+        <Label Content="Đơn giá" HorizontalAlignment="Left" Margin="69,221,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtMaSP" HorizontalAlignment="Left" Margin="145,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="472"/>
+        <TextBox x:Name="masanphamtxt" HorizontalAlignment="Left" Margin="165,100,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="454"/>
+        <TextBox x:Name="tensanphamtxt" HorizontalAlignment="Left" Margin="162,139,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="459"/>
+        <TextBox x:Name="soluongtxt" HorizontalAlignment="Left" Margin="158,181,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="464"/>
+        <TextBox x:Name="dongiatxt" HorizontalAlignment="Left" Margin="162,227,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="459"/>
+        <TextBox x:Name="maloaitxt" HorizontalAlignment="Left" Margin="159,274,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="468"/>
+        <Label Content="Mã loại" HorizontalAlignment="Left" Margin="73,274,0,0" VerticalAlignment="Top"/>
+        <Button Content="Tìm kiếm" HorizontalAlignment="Left" Margin="242,66,0,0" VerticalAlignment="Top" Width="182" Click="Button_Click_1"/>
+        <Button Content="Sửa" HorizontalAlignment="Left" Margin="123,362,0,0" VerticalAlignment="Top" Width="42" Height="23" Click="Button_Click"/>
+        <Button Content="Thoát" HorizontalAlignment="Left" Margin="620,360,0,0" VerticalAlignment="Top" Width="42" Height="23" Click="Button_Click_2"/>
+
+    </Grid>
+</Window>

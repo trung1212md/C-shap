@@ -1,0 +1,8 @@
+C:\Users\hoang\C#\buoi4\LuyenTap2\Luyentap4\bin\Debug\Luyentap4.exe.config
+C:\Users\hoang\C#\buoi4\LuyenTap2\Luyentap4\bin\Debug\Luyentap4.exe
+C:\Users\hoang\C#\buoi4\LuyenTap2\Luyentap4\bin\Debug\Luyentap4.pdb
+C:\Users\hoang\C#\buoi4\LuyenTap2\Luyentap4\obj\Debug\Luyentap4.csproj.AssemblyReference.cache
+C:\Users\hoang\C#\buoi4\LuyenTap2\Luyentap4\obj\Debug\Luyentap4.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoang\C#\buoi4\LuyenTap2\Luyentap4\obj\Debug\Luyentap4.csproj.CoreCompileInputs.cache
+C:\Users\hoang\C#\buoi4\LuyenTap2\Luyentap4\obj\Debug\Luyentap4.exe
+C:\Users\hoang\C#\buoi4\LuyenTap2\Luyentap4\obj\Debug\Luyentap4.pdb
